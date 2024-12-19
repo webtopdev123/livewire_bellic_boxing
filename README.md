@@ -3,7 +3,7 @@
 ### Close Repository
 
 ```
-git clone https://github.com/aleksandarpesic851/bellic-boxing
+git clone https://github.com/webtopdev123/livewire_bellic_boxing.git
 ```
 
 ### Install Dependencies
